@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Github Pages](https://magnic0.github.io/launch-countdown-timer/)
+- Live Site URL: [Github Pages]([https://magnic0.github.io/launch-countdown-timer/](https://rato-png.github.io/launch-countdown-timer/))
 
 ## My process
 
